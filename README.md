@@ -1,8 +1,6 @@
 # 学习笔录
 
-本书记载了多方面知识点，偏Java后端开发，包含JavaSE，Oracle，MySQL，JDBC，连接池，JavaEE，Spring，SpringMVC，
-
-Mybatis，Struts2，Hibernate，SpringBoot​ 以及Bootstrap，jQuery，AJAX，JSON。。。未完待续。
+百度很多东西都有，但是很多不能用，所以需要自己来实践,作为笔记而记录，方便自己查看，也方便分享！
 
 本书不适合没有基础的人看，记录的一些抽取出来的知识点，是我的学习和工作经历。
 
@@ -13,4 +11,3 @@ Mybatis，Struts2，Hibernate，SpringBoot​ 以及Bootstrap，jQuery，AJAX，
 书籍在GitBook上
 
 喜欢的话，加个收藏哦~
-
